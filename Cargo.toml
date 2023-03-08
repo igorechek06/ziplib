@@ -1,0 +1,21 @@
+[package]
+edition = "2021"
+
+name = "ziplib"
+version = "0.1.0"
+description = "Universal archive lib"
+
+authors = ["Igor Tolmachev <me@igorek.dev>"]
+
+homepage = "https://ziplib.igorek.dev"
+repository = "https://github.com/igorechek06/ziplib"
+documentation = "https://docs.rs/ziplib"
+
+readme = "README.md"
+license = "GPL-3.0-only"
+
+keywords = ["archive", "archiver", "7z", "zip", "rar"]
+categories = []                                        # TODO:
+
+
+[dependencies]
